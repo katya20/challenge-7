@@ -1,0 +1,24 @@
+#red {
+  background: pink;
+}
+
+
+#blue {
+  background: lightblue;
+}
+
+#green {
+  background: lightgreen;
+}
+
+#orange {
+  background: orange;
+}
+
+.intro-section {
+  display: block;
+}
+
+#color-display {
+  margin-top: 20px; 
+}
