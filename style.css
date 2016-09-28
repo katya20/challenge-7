@@ -1,10 +1,18 @@
 #red {
-  background: red;
+  background: pink;
 }
 
 
 #blue {
   background: lightblue;
+}
+
+#green {
+  background: lightgreen;
+}
+
+#orange {
+  background: orange;
 }
 
 .intro-section {
